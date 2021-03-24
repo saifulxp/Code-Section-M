@@ -1,6 +1,0 @@
-F:\c#\1st lab task\1st lab task\bin\Debug\1st lab task.exe.config
-F:\c#\1st lab task\1st lab task\bin\Debug\1st lab task.exe
-F:\c#\1st lab task\1st lab task\bin\Debug\1st lab task.pdb
-F:\c#\1st lab task\1st lab task\obj\Debug\1st lab task.csprojResolveAssemblyReference.cache
-F:\c#\1st lab task\1st lab task\obj\Debug\1st lab task.exe
-F:\c#\1st lab task\1st lab task\obj\Debug\1st lab task.pdb
